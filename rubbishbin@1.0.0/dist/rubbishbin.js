@@ -1,3 +1,4 @@
+/*! rubbishbin.js v1.0.0 | (c) 2024, rubbishbinjs | MIT License | rubbishbinjs.github.io */
 function _0x3551() {
     const _0x4edcfd=['catch',
     '328750IlHZKp',
